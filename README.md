@@ -1,2 +1,2 @@
 # hello_world
-just another repository
+Hello. My name is Ethan Aylesworth. I like to read and wath movie and tv.
